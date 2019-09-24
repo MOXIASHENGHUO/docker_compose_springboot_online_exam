@@ -1,0 +1,67 @@
+2019-07-15 16:59:35.996  INFO 3576 --- [main] com.exam.OnlineExamApplication           : Starting OnlineExamApplication on LLORGAN-RHSPTI7 with PID 3576 (D:\sts_workspace\OnlineExam\target\classes started by Administrator in D:\sts_workspace\OnlineExam)
+2019-07-15 16:59:36.004 DEBUG 3576 --- [main] com.exam.OnlineExamApplication           : Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2019-07-15 16:59:36.039  INFO 3576 --- [main] com.exam.OnlineExamApplication           : No active profile set, falling back to default profiles: default
+2019-07-15 16:59:36.840 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\ClassesMapper.class]
+2019-07-15 16:59:36.841 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\CommentMapper.class]
+2019-07-15 16:59:36.841 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\ExaminationMapper.class]
+2019-07-15 16:59:36.841 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\ExamQuestionMapper.class]
+2019-07-15 16:59:36.841 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\GradeMapper.class]
+2019-07-15 16:59:36.841 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\InstituteMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\LinkMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\LoveMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\PermissionMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\QuestionMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\RoleMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\RolePermissionMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\SubjectMapper.class]
+2019-07-15 16:59:36.842 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\SysConfigMapper.class]
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\TagMapper.class]
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\UserMapper.class]
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Identified candidate component class: file [D:\sts_workspace\OnlineExam\target\classes\com\exam\mapper\UserRoleMapper.class]
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'classesMapper' and 'com.exam.mapper.ClassesMapper' mapperInterface
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'classesMapper'.
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'commentMapper' and 'com.exam.mapper.CommentMapper' mapperInterface
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'commentMapper'.
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'examinationMapper' and 'com.exam.mapper.ExaminationMapper' mapperInterface
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'examinationMapper'.
+2019-07-15 16:59:36.843 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'examQuestionMapper' and 'com.exam.mapper.ExamQuestionMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'examQuestionMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'gradeMapper' and 'com.exam.mapper.GradeMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'gradeMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'instituteMapper' and 'com.exam.mapper.InstituteMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'instituteMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'linkMapper' and 'com.exam.mapper.LinkMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'linkMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'loveMapper' and 'com.exam.mapper.LoveMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'loveMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'permissionMapper' and 'com.exam.mapper.PermissionMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'permissionMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'questionMapper' and 'com.exam.mapper.QuestionMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'questionMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'roleMapper' and 'com.exam.mapper.RoleMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'roleMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'rolePermissionMapper' and 'com.exam.mapper.RolePermissionMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'rolePermissionMapper'.
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'subjectMapper' and 'com.exam.mapper.SubjectMapper' mapperInterface
+2019-07-15 16:59:36.844 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'subjectMapper'.
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'sysConfigMapper' and 'com.exam.mapper.SysConfigMapper' mapperInterface
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'sysConfigMapper'.
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'tagMapper' and 'com.exam.mapper.TagMapper' mapperInterface
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'tagMapper'.
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'userMapper' and 'com.exam.mapper.UserMapper' mapperInterface
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'userMapper'.
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Creating MapperFactoryBean with name 'userRoleMapper' and 'com.exam.mapper.UserRoleMapper' mapperInterface
+2019-07-15 16:59:36.845 DEBUG 3576 --- [main] t.m.s.mapper.ClassPathMapperScanner      : Enabling autowire by type for MapperFactoryBean with name 'userRoleMapper'.
+2019-07-15 16:59:39.004  INFO 3576 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-07-15 16:59:39.009 DEBUG 3576 --- [main] c.e.m.PermissionMapper.selectAllPerms    : ==>  Preparing: SELECT id, permission_id, name, description, url, perms, parent_id, type, order_num, icon, status, create_time, update_time FROM permission WHERE status=? ORDER BY order_num 
+2019-07-15 16:59:39.133 DEBUG 3576 --- [main] c.e.m.PermissionMapper.selectAllPerms    : ==> Parameters: 1(Integer)
+2019-07-15 16:59:39.164 DEBUG 3576 --- [main] c.e.m.PermissionMapper.selectAllPerms    : <==      Total: 100
+2019-07-15 16:59:39.430  INFO 3576 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-15 16:59:39.430  INFO 3576 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.31
+2019-07-15 16:59:39.437  INFO 3576 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Java\jdk1.8.0_181\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:/Java/jdk1.8.0_181/bin/../jre/bin/server;D:/Java/jdk1.8.0_181/bin/../jre/bin;D:/Java/jdk1.8.0_181/bin/../jre/lib/amd64;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\Java\jdk1.8.0_181\bin;D:\Java\jdk1.8.0_181\jre\bin;D:\mysql-5.7.26-winx64\bin;D:\Git\cmd;D:\Redis\Redis-x64-3.2.100;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;D:\STS;;.]
+2019-07-15 16:59:39.547  INFO 3576 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-15 16:59:41.021  WARN 3576 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-15 16:59:41.214  WARN 3576 --- [main] o.s.data.convert.CustomConversions       : Registering converter from class org.joda.time.LocalDateTime to class java.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might wanna check you annotation setup at the converter implementation.
+2019-07-15 16:59:41.228  WARN 3576 --- [main] o.s.data.convert.CustomConversions       : Registering converter from class org.joda.time.LocalDateTime to class java.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might wanna check you annotation setup at the converter implementation.
+2019-07-15 16:59:41.236  WARN 3576 --- [main] o.s.data.convert.CustomConversions       : Registering converter from class org.joda.time.LocalDateTime to class java.time.LocalDateTime as reading converter although it doesn't convert from a store-supported type! You might wanna check you annotation setup at the converter implementation.
+2019-07-15 16:59:41.477  INFO 3576 --- [main] com.exam.OnlineExamApplication           : Started OnlineExamApplication in 5.877 seconds (JVM running for 6.26)
