@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3d72d9-c723-4962-b662-93f2ef72d521" name="Default Changelist" comment="" />
+    <list default="true" id="0c3d72d9-c723-4962-b662-93f2ef72d521" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/online_exam.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/online_exam.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log\online-exam.log" beforeDir="false" afterPath="$PROJECT_DIR$/log\online-exam.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +18,17 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RGcR4hwWFe4QM5GDdSg3qL2odz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -35,7 +45,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PasswordHelper">
+    <configuration name="PasswordHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exam.util.PasswordHelper" />
+      <module name="OnlineExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exam.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OnlineExamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="OnlineExam" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.exam.OnlineExamApplication" />
@@ -43,6 +66,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordHelper" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,11 +83,22 @@
       <option name="presentableId" value="Default" />
       <updated>1569296861768</updated>
       <workItem from="1569296863232" duration="456000" />
-      <workItem from="1569297504442" duration="2986000" />
+      <workItem from="1569297504442" duration="7058000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

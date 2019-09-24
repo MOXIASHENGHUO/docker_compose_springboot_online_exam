@@ -734,7 +734,7 @@ CREATE TABLE `user`  (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES (1, '1', 1, 'admin', '37f2dd3a7e5163c9373b7cf77044c2a0', '95后少年，热爱写bug，热爱编程，热爱学习，分享一些个人项目经验，共同学习，少走弯路。Just do it！', '347172bacda0929395c3ea4736444ec9', '2015', '超级管理员', '1468584274@qq.com', '15709620339', 1, 23, 'https://online-exam-1256117146.cos.ap-beijing.myqcloud.com/img/exam/7e60c1d428c7a75ffbb8c6813a0d695e.jpg', 1, '2018-05-23 21:22:06', '2019-05-28 22:28:36', '2019-07-05 09:47:37');
+INSERT INTO `user` VALUES (1, '1', 1, 'admin', '3ab3b48aaf38c7c07cdcb443b684f7d0', '95后少年，热爱写bug，热爱编程，热爱学习，分享一些个人项目经验，共同学习，少走弯路。Just do it！', 'a24521bbaab8663fb4e6083c4ca50e02', '2015', '超级管理员', '1468584274@qq.com', '15709620339', 1, 23, 'https://online-exam-1256117146.cos.ap-beijing.myqcloud.com/img/exam/7e60c1d428c7a75ffbb8c6813a0d695e.jpg', 1, '2018-05-23 21:22:06', '2019-05-28 22:28:36', '2019-07-05 09:47:37');
 
 -- ----------------------------
 -- Table structure for user_role
